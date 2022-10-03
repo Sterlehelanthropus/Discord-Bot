@@ -1,3 +1,3 @@
 # Discord-Bot
-Stupid Discord but made for fun.
+Stupid Discord bot made for fun.
 Basically just sends messages based on specific user input.
